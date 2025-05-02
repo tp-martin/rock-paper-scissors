@@ -1,1 +1,2 @@
 # rock-paper-scissors
+Time to make my first project using javascript. I have also been away from my studies for a few weeks. (More like a month). So this will also serve as my way back into regular studying. Here goes nothing. 
