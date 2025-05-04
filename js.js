@@ -51,7 +51,7 @@ const game = () => {
     } else if (playerScore < compScore) {
         return 'The computer beat you. Shameful.'
     } else {
-        return 'You tied somehow.'
+        return 'You tied, which is like losing.'
     }
 }
 
