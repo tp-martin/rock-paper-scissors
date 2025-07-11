@@ -9,7 +9,7 @@ body {
 
 h1{
     font-size: 3.5rem;
-    color: rgb(111, 172, 111);
+    color: rgb(214, 5, 89);
     align-items: center;
 }
 
@@ -45,9 +45,9 @@ h1{
 }
 
 .greenText, #playerScoreDisplay{
-    color: rgb(5, 95, 5)
+    color: rgb(43, 223, 43)
 }
 
 .redText, #computerScoreDisplay{
-    color: rgb(199, 21, 21)
+    color: rgb(134, 13, 13)
 }
