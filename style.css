@@ -9,7 +9,8 @@ body {
 
 h1{
     font-size: 3.5rem;
-    color: rgb(111, 172, 111)
+    color: rgb(111, 172, 111);
+    align-items: center;
 }
 
 .choices{
@@ -37,4 +38,16 @@ h1{
 #resultDisplay{
     font-size: 5rem;
     margin: 30px 0;
+}
+
+.scoreDisplay{
+    font-size: 2rem;
+}
+
+.greenText, #playerScoreDisplay{
+    color: rgb(5, 95, 5)
+}
+
+.redText, #computerScoreDisplay{
+    color: rgb(199, 21, 21)
 }
